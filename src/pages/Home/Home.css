@@ -1,0 +1,11 @@
+#homeContainer {
+  width: 550px;
+  margin: 30px auto;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgb(150, 150, 150);
+}
+
+.cardsContainer {
+  margin: 45px 40px;
+}

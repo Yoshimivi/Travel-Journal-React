@@ -1,0 +1,47 @@
+#cardContainer {
+  display: flex;
+  margin-block: 18px;
+  font-size: 10.25px;
+}
+
+.locationImg {
+  width: 125px;
+  height: 168px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 19px;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  font-size: 10.25px;
+  margin-top: 19px;
+}
+
+.location p {
+  margin-inline: 4px 12px;
+  letter-spacing: .17em;
+}
+
+.location a {
+  color: gray;
+}
+
+h1 {
+  font-size: 25px;
+  margin-block: 7px 20px;
+}
+
+.date {
+  font-weight: 700;
+  margin-bottom: 9px;
+}
+
+.infos {
+  line-height: 150%;
+}
+
+hr {
+  filter: opacity(0.3);
+}

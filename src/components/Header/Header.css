@@ -1,0 +1,12 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55px;
+  background-color: hsla(0, 89%, 66%, 1);
+  gap: 7px;
+}
+
+header p {
+  color: #ffffff;
+}
